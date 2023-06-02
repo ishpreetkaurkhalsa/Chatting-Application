@@ -17,5 +17,4 @@
 </ul>
 <h2>Screenshots</h2>
 <h3>Client</h3>
-<img src="(https://github.com/ishpreetkaurkhalsa/Chatting-Application/assets/113664759/86be0f9a-2603-4f87-86f4-58eef537594c)
-">
+<img src="https://github.com/ishpreetkaurkhalsa/Chatting-Application/assets/113664759/86be0f9a-2603-4f87-86f4-58eef537594c">
