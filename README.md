@@ -17,4 +17,5 @@
 </ul>
 <h2>Screenshots</h2>
 <h3>Client</h3>
-![client](https://github.com/ishpreetkaurkhalsa/Chatting-Application/assets/113664759/678cb41e-5cac-44d9-a72b-025a7520988e)
+<img src="(https://github.com/ishpreetkaurkhalsa/Chatting-Application/assets/113664759/86be0f9a-2603-4f87-86f4-58eef537594c)
+">
