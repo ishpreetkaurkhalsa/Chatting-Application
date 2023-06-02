@@ -17,6 +17,4 @@
 </ul>
 <h2>Screenshots</h2>
 <h3>Client</h3>
-![client](https://github.com/ishpreetkaurkhalsa/Chatting-Application/assets/113664759/cd7a7b49-c08e-48cc-b27f-b9a3bc4089f8)
-<h3>Server</h3>
-![server](https://github.com/ishpreetkaurkhalsa/Chatting-Application/assets/113664759/499131c3-b165-4000-8452-0b1e045e3ead)
+![client](https://github.com/ishpreetkaurkhalsa/Chatting-Application/assets/113664759/678cb41e-5cac-44d9-a72b-025a7520988e)
