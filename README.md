@@ -17,7 +17,7 @@
 </ul>
 <h2>Screenshots</h2>
 <h3>Client</h3>
-<img src="https://github.com/ishpreetkaurkhalsa/Chatting-Application/assets/113664759/86be0f9a-2603-4f87-86f4-58eef537594c" style="height:100px;width:auto;">
+<img src="https://github.com/ishpreetkaurkhalsa/Chatting-Application/assets/113664759/86be0f9a-2603-4f87-86f4-58eef537594c" style="height:500px;width:auto;">
 
 <h3>Server</h3>
-<img src="https://github.com/ishpreetkaurkhalsa/Chatting-Application/assets/113664759/b02893c2-6937-4a52-bbd9-c46663b855e5" style="height:100px;width:auto;>
+<img src="https://github.com/ishpreetkaurkhalsa/Chatting-Application/assets/113664759/b02893c2-6937-4a52-bbd9-c46663b855e5" style="height:500px;width:auto;">
